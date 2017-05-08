@@ -59,7 +59,7 @@ namespace Csv
             {
                 var newObject = new T();
                 var data = row;
-                var regex = new Regex($"(\"[^ \"]*\" |[^;]+)");
+                var regex = new Regex($"(\"[^ \"]*\" |[^{_separator}]+)");
                 var dataColumns = regex.Matches(data);
 
                 foreach (var prop in _propertyInformations)
