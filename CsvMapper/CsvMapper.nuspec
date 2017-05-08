@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CsvMapper</id>
+    <version>$version$</version>
+    <title>CsvMapper</title>
+    <authors>Lenny32</authors>
+    <owners>Lenny32</owners>
+    <projectUrl>https://github.com/Lenny32/CsvMapper</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      Csv To Object Mapper Edit
+    </description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Csv Mapper file</tags>
+  </metadata>
+</package>
